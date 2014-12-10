@@ -23,8 +23,9 @@ The overall goal is to evaluate the Open Source database [Riak][3] as a viable E
 2. Understanding how the Open Source project [Sandthorn][1] implements ESS, including the [SQL Event Store][2].
 3. Studying the NoSQL database [Riak][3] and understanding the differences to relational databases.
 4. Creating a [Sandthorn][1] Event Store using [Riak][3] in the Ruby language.
-5. Evaluate differences in performance, scalability and fault tolerance between the [SQL Event Store][2] and the created [Riak][3] Event Store.
-6. The evaluation methods should be reusable when evaluating other persistance mechanimsm in the future.
+5. Studying how to evaluate an Event Store in terms of performance, scalability and fault tolerance.
+6. Evaluate differences in performance, scalability and fault tolerance between the [SQL Event Store][2] and the created [Riak][3] Event Store.
+7. The evaluation methods should be reusable when evaluating other persistance mechanimsm in the future.
 
 ## Requirements
 
